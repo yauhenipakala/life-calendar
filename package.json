@@ -16,16 +16,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wcoder/life-calendar.git"
+    "url": "git+https://github.com/yauhenipakala/life-calendar.git"
   },
   "keywords": [
     "life",
     "calendar"
   ],
-  "author": "Yauheni Pakala (https://github.com/wcoder)",
+  "author": "Yauheni Pakala (https://github.com/yauhenipakala)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wcoder/life-calendar/issues"
+    "url": "https://github.com/yauhenipakala/life-calendar/issues"
   },
-  "homepage": "https://github.com/wcoder/life-calendar#readme"
+  "homepage": "https://ypakala.com/demo/life-calendar/"
 }
